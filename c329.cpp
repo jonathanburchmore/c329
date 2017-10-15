@@ -1,3 +1,9 @@
+/*
+ * :vi ts=4 sts=4 sw=4
+ *
+ * Copyright (c) Jonathan Burchmore
+ */
+
 #include "c329.h"
 #include <SPI.h>
 #include <Adafruit_GFX.h>
